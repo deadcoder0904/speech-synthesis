@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![speech-synthesis](.png)
+![speech-synthesis](http://imgur.com/IOh7Qhx.png)
 
 ## License
 
