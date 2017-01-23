@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded',function() {
 	const speakButton = document.getElementById('speak');
 	const options = document.querySelectorAll('[type=range], [name=text]');
 
-	msg.text = document.querySelector('[name=text').value;
+	msg.text = document.querySelector('[name=text]').value;
 
 	function populateVoices() {
 		voices = this.getVoices();
